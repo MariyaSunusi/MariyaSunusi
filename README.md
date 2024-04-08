@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariyaSunusi
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in software development
+- 🌱 I can code in Python,HTML, CSS, C++, java, VisualBasic
 - 💞️ I’m looking to collaborate on application, software or website development
 - 📫 How to reach me sunusimariya@gmail.com
 
